@@ -2,4 +2,4 @@
 
 64114069 เศรษฐพงษ์ เคียนเขา ITD<br>
 รายวิชา: ITD62-331	อินเทอร์เน็ตของสรรพสิ่ง (Internet of Things)<br>
-Worksheet 2 เก็บข้อมูลอุ Temperature และ Humidity และแสดงผลบนจอ LCD
+Worksheet 2 เก็บข้อมูล Temperature และ Humidity และแสดงผลบนจอ LCD
